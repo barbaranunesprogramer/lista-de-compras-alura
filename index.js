@@ -26,7 +26,7 @@ botaoAdicionar.addEventListener("click", function (evento) {
         } else {
             nomeItem.style.textDecoration = "none";
         }
-    }
+    }.
     )
 
 
